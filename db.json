@@ -1,0 +1,232 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "phelaadmin@gmail.com",
+      "password": "phela",
+      "avata": "https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/395374697_720346493449080_7602719634634850329_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BgguUEDq9lMAX9pHqgw&_nc_ht=scontent.fhan17-1.fna&oh=00_AfCJswc-nN02k_I0LD0qNGvf8E0PbXZVPEIAW4Mvx0ifeA&oe=655E0BD1"
+    },
+    {
+      "name": "Duy Khánh",
+      "email": "duykhanh@gmail.com",
+      "password": "1",
+      "id": 743872,
+      "status": "active",
+      "address": [],
+      "cart": [],
+      "avata": ""
+    },
+    {
+      "name": "Khánh Hòa",
+      "id": "5e929927-c95c-6fbc-cab2-0250c758df19",
+      "email": "duykhanh1@gmail.com",
+      "password": "1",
+      "compelete": "active",
+      "cart": [],
+      "address": [],
+      "avata": ""
+    },
+    {
+      "name": "Khánh Hòa",
+      "id": "82d33d1a-30c2-a77e-389b-fc7a65435095",
+      "email": "duykhan2323@gmail.com",
+      "password": "1",
+      "compelete": "active",
+      "address": [],
+      "cart": [],
+      "avata": ""
+    },
+    {
+      "name": "Khánh Hòa",
+      "id": "b42bda9f-e581-9105-3763-a2f721c6c458",
+      "email": "duykhanh16@gmail.com",
+      "password": "1",
+      "compelete": "active",
+      "address": [],
+      "cart": [],
+      "avata": ""
+    }
+  ],
+  "products": [
+    {
+      "name": "Phê Đen",
+      "class": "cà phê",
+      "id": 1,
+      "price": 39000,
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2023/07/size-vuong-01.jpg",
+      "describe": "Vị chua nhẹ tự nhiện của hạt Arabica Cầu Đất kết hợp cùng Robusta Gia Lai được tuyển chọn kỹ lưỡng, tạo nên hương vị đậm mượt đầy tinh tế. Sản phẩm KHÔNG ĐƯỜNG - vui lòng lựa chọn lượng đường theo nhu cầu."
+    },
+    {
+      "name": "Phê Nâu",
+      "class": "cà phê",
+      "id": 2,
+      "price": 39000,
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2023/07/size-vuong-03.jpg",
+      "describe": "Vị chua nhẹ tự nhiện của hạt Arabica Cầu Đất kết hợp cùng Robusta Gia Lai được tuyển chọn kỹ lưỡng, tạo nên hương vị đậm mượt đầy tinh tế.   "
+    },
+    {
+      "name": "Phê Truffle",
+      "class": "cà phê",
+      "id": 3,
+      "price": 49000,
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2023/07/size-vuong-02.jpg",
+      "describe": " Sự sáng tạo hòa hợp của Cà Phê Đậm Mượt và Kem Nấm Truffle Đen Thơm Béo, hương vị bùng nổ đầy phóng khoáng.  "
+    },
+    {
+      "name": "Săn Mây(Matcha Đá Xay)",
+      "class": "Ô LONG MATCHA",
+      "id": 4,
+      "price": 85000,
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2023/05/a%CC%89nh-vuo%CC%82ng-sp-sa%CC%86n-ma%CC%82y_.jpg",
+      "describe": "- Ô Long Matcha đá xay mát lạnh kết hợp cùng vị dừa Bến Tre ngọt thanh, phủ bên trên bằng một lớp kem Dừa Matcha hấp dẫn."
+    },
+    {
+      "name": "MATCHA COCO LATE",
+      "id": 5,
+      "class": "Ô LONG MATCHA",
+      "price": 60000,
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2023/05/a%CC%89nh-vuo%CC%82ng-sp-matcha-latte_.jpg",
+      "describe": "Lớp kem Ô Long Matcha bồng bềnh, sánh mịn hòa quyện cùng vị dừa Bến Tre ngọt thơm"
+    },
+    {
+      "name": "PHÙ VÂN",
+      "id": 6,
+      "price": 45000,
+      "class": "SYPHON",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14721.jpg",
+      "describe": "PHÙ VÂN <br> - Độ cao : 1400m <br> - Vùng nguyên liệu : Đà Lạt<br> - Phương thức canh tác : Thuận tự nhiên <br> - Hương vị : Vị Ô Long đậm đà cùng lớp kem tươi nhẹ nhàng, sánh mịn."
+    },
+    {
+      "name": "Ô LONG TRỨNG BÔNG",
+      "id": 7,
+      "price": 45000,
+      "class": "SYPHON",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14833.jpg",
+      "describe": "- Hương vị : Ô Long đậm đà cùng lớp trứng thơm béo, mịn ở trên."
+    },
+    {
+      "name": "Ô LONG SỮA PHÊ LA",
+      "id": 8,
+      "price": 55000,
+      "class": "SYPHON",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14369.jpg",
+      "describe": "- Hương vị: Ô Long đậm đà hòa quyện cùng vị sữa thơm béo"
+    },
+    {
+      "name": "Ô LONG NHÀI SỮA",
+      "id": 9,
+      "price": 55000,
+      "class": "SYPHON",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14287.jpg",
+      "describe": "Thơm hương nhài, vị Ô Long đậm đà hòa quyện cùng vị sữa thơm béo"
+    },
+    {
+      "name": "PHAN XI PĂNG",
+      "id": 10,
+      "price": 55000,
+      "class": "SYPHON",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14853.jpg",
+      "describe": "- Hương vị: Cốt dừa đá xay mát lạnh quyện trong Ô Long đậm đà"
+    },
+    {
+      "name": "GẤM",
+      "id": 11,
+      "price": 54000,
+      "class": "FRENCH PRESS",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14913.jpg",
+      "describe": "- Hương vị: Ô Long đậm đà, thoảng hương nhài cùng vị vải ngọt ngào nhẹ nhàng"
+    },
+    {
+      "name": "Ô LONG ĐÀO ĐỎ",
+      "id": 12,
+      "price": 54000,
+      "class": "FRENCH PRESS",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14871.jpg",
+      "describe": "- Hương vị: Ô Long đỏ đậm đà hơn cùng vị đào ngọt thơm."
+    },
+    {
+      "name": "TRÀ VỎ CÀ PHÊ",
+      "id": 13,
+      "price": 54000,
+      "class": "FRENCH PRESS",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14941.jpg",
+      "describe": "- Hương vị: Vị cà phê nhẹ nhàng, không gắt cùng với chanh vàng thơm dịu"
+    },
+    {
+      "name": "KHÓI B'LAO",
+      "id": 14,
+      "price": 54000,
+      "class": "MOKA POT",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2022/07/14410.jpg",
+      "describe": "- Hương vị: Nốt hương đầu cảm nhận vị khói đặc trưng. Tới hương giữa đậm vị sữa quyện cùng trà Ô Long. Cuối cùng đọng lại hậu vị là nốt hương hoa ngọc lan lưu trong khoang miệng."
+    },
+    {
+      "name": "ĐÀ LẠT",
+      "id": 15,
+      "price": 45000,
+      "class": "MOKA POT",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14761.jpg",
+      "describe": "- Hương vị: Đậm đà, hậu vị thơm ngậy.Đây chính là món quà Phê La muốn gửi đến bạn để bắt đầu một ngày mới năng động."
+    },
+    {
+      "name": "CÀ PHÊ TRỨNG BÔNG",
+      "id": 16,
+      "price": 45000,
+      "class": "MOKA POT",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14801.jpg",
+      "describe": "- Hương vị: Đậm đà vị cà phê cùng lớp kem trứng mịn, thơm béo"
+    },
+    {
+      "name": "Tấm",
+      "id": 17,
+      "price": 54000,
+      "class": "MOKA POT",
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14614.jpg",
+      "describe": "- Đặc tính : Hương vị Ô Long đậm đà hòa quyện cùng mùi thơm dịu dàng của gạo rang."
+    },
+    {
+      "name": "LANG BIANG",
+      "class": "NITRO COLD BREW",
+      "id": 18,
+      "price": 54000,
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14265.jpg",
+      "describe": "- Đặc tính : Hương vị thuần khiết của Ô Long đặc sản Đà Lạt cùng vị nhài thanh ngọt nhẹ nhàng."
+    },
+    {
+      "name": "Ô LONG NHIỆT ĐỚI",
+      "class": "NITRO COLD BREW",
+      "id": 19,
+      "price": 54000,
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/14690.jpg",
+      "describe": "- Hương vị : Vị Ô Long đặc sản Đà Lạt thanh khiết, điểm thêm hương vị trái cây nhiệt đới tươi mát."
+    },
+    {
+      "name": "CÀ PHÊ PHA THỦ CÔNG",
+      "class": "V60",
+      "id": 20,
+      "price": 54000,
+      "quantity": 50,
+      "img": "https://phela.vn/wp-content/uploads/2021/07/15097.jpg",
+      "describe": "- Hương vị: Đậm đà, chuẩn vị cà phê rang."
+    }
+  ]
+}
